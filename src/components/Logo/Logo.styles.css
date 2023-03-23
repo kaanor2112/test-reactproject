@@ -1,0 +1,11 @@
+.logo {
+  height: 10vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .logo {
+    margin-top: 10%;
+    margin-bottom: 50px;
+  }
+}
